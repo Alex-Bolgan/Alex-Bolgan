@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olex-01
+- 👋 Hi, I’m @Alex-Blood
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C# and .NET
 - 📫 How to reach me: olex.bolgan@gmail.com
