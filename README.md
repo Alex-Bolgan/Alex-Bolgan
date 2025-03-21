@@ -3,7 +3,7 @@
 💻 Passionate about programming and constantly improving my skills!  
 🚀 Currently exploring **C#** and **.NET**  
 🎯 Interested in **backend development, software architecture, and algorithms**  
-
+🧑‍🎓 Currently undergraduate student in LPNU, Lviv
 ---
 
 ## 🛠️ Tech Stack  
